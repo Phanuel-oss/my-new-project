@@ -10,7 +10,7 @@ Final project for the Building AI course
 
 ## Summary
 
-I choose this  
+I choose this Because Java was originally developed as an alternative to the C/C++ programming languages. It is now mainly used for building web, desktop, mobile, and embedded applications. Java is owned and licensed through Oracle, with free and open source implementations available from Oracle and other vendors.  
 
 
 ## Background
